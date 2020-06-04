@@ -5,8 +5,8 @@ params:
   layout_style: overflow
   palette: orange
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: Consulting Services
+    tagline: IT Consulting, Process Improvement & Change Management
     profile_img: "/images/avatar-1.png"
     bg: dark
     has_nav: true
