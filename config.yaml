@@ -5,7 +5,7 @@ params:
   layout_style: overflow
   palette: orange
   header:
-    title: Kevin D. Clarke Consulting
+    title: Kevin D. Clarke consulting
     tagline: People, Process & Technology change management
     profile_img: "/images/avatar-1.png"
     bg: dark
