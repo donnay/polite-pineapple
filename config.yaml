@@ -14,8 +14,8 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: Made with theEngine.com
+      url: https://www.theEngine.com
       new_window: true
 disableKinds:
 - RSS
