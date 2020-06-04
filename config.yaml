@@ -6,7 +6,7 @@ params:
   palette: orange
   header:
     title: Consulting Services
-    tagline: Process Improvement & Change Management
+    tagline: Process Improvement <br>& Change Management
     profile_img: "/images/avatar-1.png"
     bg: dark
     has_nav: true
