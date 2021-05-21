@@ -1,16 +1,15 @@
 ---
 title: Hiking The Grand Canyon
-date: '2019-03-10'
+date: 2019-03-10
 thumb_img_path: images/8.jpg
 content_img_path: images/8.jpg
-excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
+excerpt: The Grand Canyon is a steep-sided canyon carved by the Colorado River in
+  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles
+  (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).
 layout: post
----
+draft: true
 
+---
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
