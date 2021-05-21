@@ -1,15 +1,14 @@
 ---
 title: The Ride In The Woods
 subtitle: A cautionary tale about riding
-date: '2018-01-23'
+date: 2018-01-23
 thumb_img_path: images/3.jpg
 content_img_path: images/3.jpg
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: 'The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing
+  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
 layout: post
----
 
+---
 The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Pellentesque dignissim enim sit amet venenatis urna cursus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Hac habitasse platea dictumst vestibulum rhoncus est. Sit amet cursus sit amet. Habitant morbi tristique senectus et netus et. Dolor morbi non arcu risus quis. Dignissim diam quis enim lobortis. Sit amet cursus sit amet dictum. Senectus et netus et malesuada fames ac turpis egestas sed. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Malesuada pellentesque elit eget gravida. Elementum pulvinar etiam non quam lacus.
 
 ## The Ride
