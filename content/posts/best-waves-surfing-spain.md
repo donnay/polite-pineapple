@@ -1,16 +1,16 @@
 ---
 title: Best Waves - Surfing In Spain
 subtitle: A intresting tale about Surfing
-date: '2018-01-15'
+date: 2018-01-15
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
-excerpt: >-
-  Surfing is a surface water sport in which the wave rider, referred to as a
-  surfer, rides on the forward or deep face of a moving wave, which is usually
-  carrying the surfer towards the shore.
+excerpt: Surfing is a surface water sport in which the wave rider, referred to as
+  a surfer, rides on the forward or deep face of a moving wave, which is usually carrying
+  the surfer towards the shore.
 layout: post
----
+draft: true
 
+---
 Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)
 
 **Surfing** is a surface water sport in which the wave rider, referred to as a surfer, rides on the forward or deep face of a moving wave, which is usually carrying the surfer towards the shore. Waves suitable for surfing are primarily found in the ocean, but can also be found in lakes or in rivers in the form of a standing wave or tidal bore. However, surfers can also utilize artificial waves such as those from boat wakes and the waves created in artificial wave pools.
